@@ -1,0 +1,425 @@
+{
+  "matematicas": {
+    "nombre": "Matemáticas",
+    "descripcion": "Aprende números, operaciones y resuelve problemas divertidos",
+    "icono": "🔢",
+    "color": "#E74C3C",
+    "periodos": {
+      "periodo1": {
+        "nombre": "Primer Período",
+        "descripcion": "Números y operaciones básicas",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Los Números",
+            "descripcion": "Conoce los números del 1 al 100",
+            "temas": {
+              "tema1": {
+                "nombre": "Números del 1 al 20",
+                "descripcion": "Aprende a contar y reconocer los primeros números",
+                "descripcion_html": "<div class='tema-descripcion'><h4>¿Qué aprenderás?</h4><ul><li>Reconocer los números del 1 al 20</li><li>Contar objetos hasta 20</li><li>Escribir los números correctamente</li><li>Comparar cantidades pequeñas</li></ul><h4>Objetivos</h4><p>Al finalizar este tema, podrás identificar, leer y escribir los números del 1 al 20 de forma correcta. Aprenderás a contar objetos de tu entorno y a comparar cantidades.</p><h4>Actividades</h4><p>Realizarás juegos interactivos, verás videos animados y practicarás con ejercicios divertidos que te ayudarán a dominar estos números.</p></div>",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Contando con Animales",
+                  "duracion": "5 minutos",
+                  "url": "/videos/numeros-1-20.mp4",
+                  "descripcion": "Video animado donde los animales nos enseñan a contar"
+                },
+                "modelo_3d": {
+                  "titulo": "Números en 3D",
+                  "descripcion": "Manipula números en tres dimensiones",
+                  "url": "/3d/numeros-3d"
+                },
+                "evaluacion": {
+                  "titulo": "¡Demuestra lo que sabes!",
+                  "descripcion": "Juega y aprende con ejercicios divertidos",
+                  "url": "/evaluacion/numeros-1-20"
+                }
+              },
+              "tema2": {
+                "nombre": "Números del 21 al 50",
+                "descripcion": "Continúa aprendiendo números más grandes",
+                "descripcion_html": "<div class='tema-descripcion'><h4>¿Qué aprenderás?</h4><ul><li>Reconocer los números del 21 al 50</li><li>Entender las decenas</li><li>Ordenar números de mayor a menor</li><li>Realizar conteos avanzados</li></ul><h4>Objetivos</h4><p>Expandirás tu conocimiento numérico hasta el 50, comprendiendo la formación de decenas y la secuencia numérica. Aprenderás a ordenar y comparar números más grandes.</p><h4>Actividades</h4><p>Participarás en juegos de ordenamiento, ejercicios de conteo y actividades prácticas con objetos del salón de clases.</p></div>",
+                "evaluacion_inicio": true,
+                "produccion": false,
+                "video": {
+                  "titulo": "Los Números Grandes",
+                  "duracion": "6 minutos",
+                  "url": "/videos/numeros-21-50.mp4",
+                  "descripcion": "Aventura con números más grandes"
+                },
+                "evaluacion": {
+                  "titulo": "Prueba de Números",
+                  "descripcion": "Evalúa tu conocimiento de números",
+                  "url": "/evaluacion/numeros-21-50"
+                }
+              }
+            }
+          },
+          "unidad2": {
+            "nombre": "Sumas y Restas",
+            "descripcion": "Aprende a sumar y restar de forma divertida",
+            "temas": {
+              "tema1": {
+                "nombre": "Sumas Básicas",
+                "descripcion": "Suma números pequeños paso a paso",
+                "descripcion_html": "<div class='tema-descripcion'><h4>¿Qué aprenderás?</h4><ul><li>Sumar números del 1 al 10</li><li>Usar objetos para contar</li><li>Resolver problemas de suma simples</li><li>Entender el concepto de 'juntar' cantidades</li></ul><h4>Objetivos</h4><p>Dominarás el concepto de suma como la acción de juntar o agregar cantidades. Aprenderás a sumar usando objetos concretos y luego números abstractos.</p><h4>Actividades</h4><p>Realizarás sumas con frutas virtuales, contarás animales y resolverás problemas de la vida cotidiana usando sumas básicas.</p><h4>Importante</h4><p>La suma es una de las operaciones matemáticas más importantes. Tómate tu tiempo para practicar y no tengas miedo de usar tus dedos o dibujos para ayudarte a contar.</p></div>",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Sumando con Frutas",
+                  "duracion": "7 minutos",
+                  "url": "/videos/sumas-basicas.mp4",
+                  "descripcion": "Aprende a sumar contando frutas deliciosas"
+                },
+                "modelo_3d": {
+                  "titulo": "Sumas en 3D",
+                  "descripcion": "Visualiza las sumas en tres dimensiones",
+                  "url": "/3d/sumas-3d"
+                },
+                "evaluacion": {
+                  "titulo": "Juego de Sumas",
+                  "descripcion": "Practica sumando en un juego divertido",
+                  "url": "/evaluacion/sumas-basicas"
+                }
+              }
+            }
+          }
+        }
+      },
+      "periodo2": {
+        "nombre": "Segundo Período",
+        "descripcion": "Multiplicación y división",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Multiplicación",
+            "descripcion": "Aprende las tablas de multiplicar",
+            "temas": {
+              "tema1": {
+                "nombre": "Tabla del 2",
+                "descripcion": "Domina la tabla de multiplicar del 2",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Tabla del 2 con Animales",
+                  "duracion": "8 minutos",
+                  "url": "/videos/tabla-2.mp4",
+                  "descripcion": "Los animales nos enseñan a multiplicar por 2"
+                },
+                "evaluacion": {
+                  "titulo": "Rapidez Mental",
+                  "descripcion": "Demuestra tu rapidez con la tabla del 2",
+                  "url": "/evaluacion/tabla-2"
+                }
+              },
+              "tema2": {
+                "nombre": "Tabla del 3",
+                "descripcion": "Aprende a multiplicar por 3",
+                "evaluacion_inicio": true,
+                "produccion": false,
+                "video": {
+                  "titulo": "Multiplicando por 3",
+                  "duracion": "7 minutos",
+                  "url": "/videos/tabla-3.mp4",
+                  "descripcion": "Aventura con la tabla del 3"
+                },
+                "modelo_3d": {
+                  "titulo": "Multiplicación 3D",
+                  "descripcion": "Visualiza las multiplicaciones en 3D",
+                  "url": "/3d/multiplicacion-3d"
+                },
+                "evaluacion": {
+                  "titulo": "Desafío del 3",
+                  "descripcion": "Pon a prueba tu conocimiento",
+                  "url": "/evaluacion/tabla-3"
+                }
+              }
+            }
+          },
+          "unidad2": {
+            "nombre": "División",
+            "descripcion": "Divide números de forma divertida",
+            "temas": {
+              "tema1": {
+                "nombre": "División Básica",
+                "descripcion": "Aprende a dividir números pequeños",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Dividiendo con Frutas",
+                  "duracion": "6 minutos",
+                  "url": "/videos/division-basica.mp4",
+                  "descripcion": "Reparte frutas y aprende a dividir"
+                },
+                "evaluacion": {
+                  "titulo": "Juego de Repartir",
+                  "descripcion": "Practica dividiendo en un juego",
+                  "url": "/evaluacion/division-basica"
+                }
+              }
+            }
+          }
+        }
+      },
+      "periodo3": {
+        "nombre": "Tercer Período",
+        "descripcion": "Geometría y medidas",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Figuras Geométricas",
+            "descripcion": "Conoce círculos, cuadrados y triángulos",
+            "temas": {
+              "tema1": {
+                "nombre": "Círculos y Cuadrados",
+                "descripcion": "Identifica y dibuja figuras básicas",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "El Mundo de las Figuras",
+                  "duracion": "9 minutos",
+                  "url": "/videos/figuras-geometricas.mp4",
+                  "descripcion": "Aventura en el mundo de las formas"
+                },
+                "modelo_3d": {
+                  "titulo": "Figuras en 3D",
+                  "descripcion": "Manipula figuras en tres dimensiones",
+                  "url": "/3d/figuras-3d"
+                },
+                "evaluacion": {
+                  "titulo": "Cazador de Formas",
+                  "descripcion": "Encuentra figuras en el mundo real",
+                  "url": "/evaluacion/figuras-geometricas"
+                }
+              }
+            }
+          }
+        }
+      },
+      "periodo4": {
+        "nombre": "Cuarto Período",
+        "descripcion": "Problemas y lógica",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Resolución de Problemas",
+            "descripcion": "Resuelve problemas paso a paso",
+            "temas": {
+              "tema1": {
+                "nombre": "Problemas de Suma",
+                "descripcion": "Resuelve problemas usando sumas",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Detectives Matemáticos",
+                  "duracion": "10 minutos",
+                  "url": "/videos/problemas-suma.mp4",
+                  "descripcion": "Resuelve misterios con sumas"
+                },
+                "evaluacion": {
+                  "titulo": "Desafío de Problemas",
+                  "descripcion": "Resuelve problemas en tiempo récord",
+                  "url": "/evaluacion/problemas-suma"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "lenguaje": {
+    "nombre": "Lenguaje",
+    "descripcion": "Lee, escribe y comunícate de manera efectiva",
+    "icono": "📚",
+    "color": "#74B9FF",
+    "periodos": {
+      "periodo1": {
+        "nombre": "Primer Período",
+        "descripcion": "Lectura y escritura básica",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Las Letras",
+            "descripcion": "Conoce todas las letras del alfabeto",
+            "temas": {
+              "tema1": {
+                "nombre": "Vocales A, E, I",
+                "descripcion": "Aprende las primeras vocales",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Las Vocales Cantan",
+                  "duracion": "6 minutos",
+                  "url": "/videos/vocales-aei.mp4",
+                  "descripcion": "Canta y aprende las vocales A, E, I"
+                },
+                "modelo_3d": {
+                  "titulo": "Vocales en 3D",
+                  "descripcion": "Forma las vocales con tus manos en 3D",
+                  "url": "/3d/vocales-3d"
+                },
+                "evaluacion": {
+                  "titulo": "Juego de Vocales",
+                  "descripcion": "Identifica y forma palabras con vocales",
+                  "url": "/evaluacion/vocales-aei"
+                }
+              },
+              "tema2": {
+                "nombre": "Vocales O, U",
+                "descripcion": "Completa las vocales",
+                "evaluacion_inicio": true,
+                "produccion": false,
+                "video": {
+                  "titulo": "Las Vocales Completas",
+                  "duracion": "7 minutos",
+                  "url": "/videos/vocales-ou.mp4",
+                  "descripcion": "Aprende las vocales O y U"
+                },
+                "evaluacion": {
+                  "titulo": "Todas las Vocales",
+                  "descripcion": "Practica con todas las vocales",
+                  "url": "/evaluacion/vocales-completas"
+                }
+              }
+            }
+          }
+        }
+      },
+      "periodo2": {
+        "nombre": "Segundo Período",
+        "descripcion": "Consonantes y sílabas",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Consonantes Básicas",
+            "descripcion": "Aprende las consonantes M, P, S",
+            "temas": {
+              "tema1": {
+                "nombre": "La Consonante M",
+                "descripcion": "Conoce la letra M y sus sonidos",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Mamá con M",
+                  "duracion": "8 minutos",
+                  "url": "/videos/consonante-m.mp4",
+                  "descripcion": "Aprende la letra M con mamá"
+                },
+                "evaluacion": {
+                  "titulo": "Juego de la M",
+                  "descripcion": "Encuentra palabras que empiecen con M",
+                  "url": "/evaluacion/consonante-m"
+                }
+              }
+            }
+          }
+        }
+      },
+      "periodo3": {
+        "nombre": "Tercer Período",
+        "descripcion": "Lectura de palabras",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Primeras Palabras",
+            "descripcion": "Lee tus primeras palabras",
+            "temas": {
+              "tema1": {
+                "nombre": "Palabras con MA, ME",
+                "descripcion": "Lee palabras con sílabas MA y ME",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Leyendo Palabras",
+                  "duracion": "9 minutos",
+                  "url": "/videos/palabras-ma-me.mp4",
+                  "descripcion": "Aprende a leer palabras básicas"
+                },
+                "evaluacion": {
+                  "titulo": "Lectura Fácil",
+                  "descripcion": "Practica leyendo palabras",
+                  "url": "/evaluacion/palabras-ma-me"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "ciencias": {
+    "nombre": "Ciencias Naturales",
+    "descripcion": "Descubre los secretos de la naturaleza",
+    "icono": "🔬",
+    "color": "#00B894",
+    "periodos": {
+      "periodo1": {
+        "nombre": "Primer Período",
+        "descripcion": "Los seres vivos y su entorno",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Animales y Plantas",
+            "descripcion": "Conoce los seres vivos que nos rodean",
+            "temas": {
+              "tema1": {
+                "nombre": "Animales de la Granja",
+                "descripcion": "Aprende sobre los animales que viven en la granja",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Un Día en la Granja",
+                  "duracion": "10 minutos",
+                  "url": "/videos/animales-granja.mp4",
+                  "descripcion": "Recorre la granja y conoce a todos los animales"
+                },
+                "modelo_3d": {
+                  "titulo": "Granja 3D",
+                  "descripcion": "Explora una granja virtual en 3D",
+                  "url": "/3d/granja-3d"
+                },
+                "evaluacion": {
+                  "titulo": "Granjero por un Día",
+                  "descripcion": "Ayuda en la granja y aprende sobre los animales",
+                  "url": "/evaluacion/animales-granja"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "sociales": {
+    "nombre": "Ciencias Sociales",
+    "descripcion": "Conoce tu comunidad y el mundo que te rodea",
+    "icono": "🌍",
+    "color": "#A29BFE",
+    "periodos": {
+      "periodo1": {
+        "nombre": "Primer Período",
+        "descripcion": "Mi familia y mi comunidad",
+        "unidades": {
+          "unidad1": {
+            "nombre": "Mi Familia",
+            "descripcion": "Aprende sobre los diferentes tipos de familia",
+            "temas": {
+              "tema1": {
+                "nombre": "Los Miembros de mi Familia",
+                "descripcion": "Conoce los roles de cada miembro de la familia",
+                "evaluacion_inicio": true,
+                "produccion": true,
+                "video": {
+                  "titulo": "Mi Familia Especial",
+                  "duracion": "8 minutos",
+                  "url": "/videos/mi-familia.mp4",
+                  "descripcion": "Historia sobre diferentes tipos de familias"
+                },
+                "evaluacion": {
+                  "titulo": "Árbol Genealógico",
+                  "descripcion": "Crea tu propio árbol familiar",
+                  "url": "/evaluacion/mi-familia"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

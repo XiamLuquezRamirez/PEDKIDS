@@ -1,0 +1,578 @@
+{
+  "grados": {
+    "1": {
+      "grupos": {
+        "A": {
+          "nombre": "Grupo A",
+          "estudiantes": [
+            {
+              "id": 1,
+              "nombre": "Ana",
+              "apellido": "García",
+              "personaje": "🐸",
+              "personaje_nombre": "rana",
+              "password_emoji": ["⭐", "❤️", "☀️"],
+              "activo": true
+            },
+            {
+              "id": 2,
+              "nombre": "Carlos",
+              "apellido": "López",
+              "personaje": "🐱",
+              "personaje_nombre": "gato",
+              "password_emoji": ["🌙", "🌈", "🌸"],
+              "activo": true
+            },
+            {
+              "id": 3,
+              "nombre": "María",
+              "apellido": "Rodríguez",
+              "personaje": "🐰",
+              "personaje_nombre": "conejo",
+              "password_emoji": ["⭐", "🌙", "❤️"],
+              "activo": true
+            },
+            {
+              "id": 4,
+              "nombre": "Diego",
+              "apellido": "Martínez",
+              "personaje": "🐻",
+              "personaje_nombre": "oso",
+              "password_emoji": ["🌈", "☀️", "🌸"],
+              "activo": true
+            },
+            {
+              "id": 5,
+              "nombre": "Sofía",
+              "apellido": "Hernández",
+              "personaje": "🐠",
+              "personaje_nombre": "pez",
+              "password_emoji": ["❤️", "🌙", "⭐"],
+              "activo": true
+            },
+            {
+              "id": 6,
+              "nombre": "Miguel",
+              "apellido": "González",
+              "personaje": "🐦",
+              "personaje_nombre": "pajaro",
+              "password_emoji": ["🌸", "☀️", "🌈"],
+              "activo": true
+            }
+          ]
+        },
+        "B": {
+          "nombre": "Grupo B",
+          "estudiantes": [
+            {
+              "id": 7,
+              "nombre": "Valentina",
+              "apellido": "Pérez",
+              "personaje": "🐸",
+              "personaje_nombre": "rana",
+              "password_emoji": ["🌙", "⭐", "🌸"],
+              "activo": true
+            },
+            {
+              "id": 8,
+              "nombre": "Andrés",
+              "apellido": "Sánchez",
+              "personaje": "🐱",
+              "personaje_nombre": "gato",
+              "password_emoji": ["❤️", "🌈", "☀️"],
+              "activo": true
+            },
+            {
+              "id": 9,
+              "nombre": "Isabella",
+              "apellido": "Ramírez",
+              "personaje": "🐰",
+              "personaje_nombre": "conejo",
+              "password_emoji": ["☀️", "❤️", "🌙"],
+              "activo": true
+            },
+            {
+              "id": 10,
+              "nombre": "Sebastián",
+              "apellido": "Cruz",
+              "personaje": "🐻",
+              "personaje_nombre": "oso",
+              "password_emoji": ["🌸", "⭐", "🌈"],
+              "activo": true
+            },
+            {
+              "id": 11,
+              "nombre": "Camila",
+              "apellido": "Flores",
+              "personaje": "🐠",
+              "personaje_nombre": "pez",
+              "password_emoji": ["🌈", "🌸", "⭐"],
+              "activo": true
+            },
+            {
+              "id": 12,
+              "nombre": "Emilio",
+              "apellido": "Torres",
+              "personaje": "🐦",
+              "personaje_nombre": "pajaro",
+              "password_emoji": ["☀️", "🌙", "❤️"],
+              "activo": true
+            }
+          ]
+        }
+      }
+    },
+    "2": {
+      "grupos": {
+        "A": {
+          "nombre": "Grupo A",
+          "estudiantes": [
+            {
+              "id": 13,
+              "nombre": "Luciana",
+              "apellido": "Morales",
+              "personaje": "🐸",
+              "personaje_nombre": "rana",
+              "password_emoji": ["⭐", "🌸", "🌙"],
+              "activo": true
+            },
+            {
+              "id": 14,
+              "nombre": "Mateo",
+              "apellido": "Jiménez",
+              "personaje": "🐱",
+              "personaje_nombre": "gato",
+              "password_emoji": ["❤️", "☀️", "🌈"],
+              "activo": true
+            },
+            {
+              "id": 15,
+              "nombre": "Valeria",
+              "apellido": "Ruiz",
+              "personaje": "🐰",
+              "personaje_nombre": "conejo",
+              "password_emoji": ["🌙", "❤️", "⭐"],
+              "activo": true
+            },
+            {
+              "id": 16,
+              "nombre": "Nicolás",
+              "apellido": "Díaz",
+              "personaje": "🐻",
+              "personaje_nombre": "oso",
+              "password_emoji": ["🌈", "🌸", "☀️"],
+              "activo": true
+            },
+            {
+              "id": 17,
+              "nombre": "Gabriela",
+              "apellido": "Vargas",
+              "personaje": "🐠",
+              "personaje_nombre": "pez",
+              "password_emoji": ["☀️", "⭐", "🌸"],
+              "activo": true
+            },
+            {
+              "id": 18,
+              "nombre": "Leonardo",
+              "apellido": "Castillo",
+              "personaje": "🐦",
+              "personaje_nombre": "pajaro",
+              "password_emoji": ["🌸", "🌙", "❤️"],
+              "activo": true
+            }
+          ]
+        },
+        "B": {
+          "nombre": "Grupo B",
+          "estudiantes": [
+            {
+              "id": 19,
+              "nombre": "Regina",
+              "apellido": "Ortega",
+              "personaje": "🐸",
+              "personaje_nombre": "rana",
+              "password_emoji": ["⭐", "🌈", "☀️"],
+              "activo": true
+            },
+            {
+              "id": 20,
+              "nombre": "Maximiliano",
+              "apellido": "Reyes",
+              "personaje": "🐱",
+              "personaje_nombre": "gato",
+              "password_emoji": ["❤️", "🌸", "🌙"],
+              "activo": true
+            },
+            {
+              "id": 21,
+              "nombre": "Alejandra",
+              "apellido": "Guerrero",
+              "personaje": "🐰",
+              "personaje_nombre": "conejo",
+              "password_emoji": ["🌙", "☀️", "⭐"],
+              "activo": true
+            },
+            {
+              "id": 22,
+              "nombre": "Fernando",
+              "apellido": "Mendoza",
+              "personaje": "🐻",
+              "personaje_nombre": "oso",
+              "password_emoji": ["🌈", "❤️", "🌸"],
+              "activo": true
+            },
+            {
+              "id": 23,
+              "nombre": "Paola",
+              "apellido": "Silva",
+              "personaje": "🐠",
+              "personaje_nombre": "pez",
+              "password_emoji": ["☀️", "🌙", "🌈"],
+              "activo": true
+            },
+            {
+              "id": 24,
+              "nombre": "Javier",
+              "apellido": "Romero",
+              "personaje": "🐦",
+              "personaje_nombre": "pajaro",
+              "password_emoji": ["🌸", "⭐", "❤️"],
+              "activo": true
+            }
+          ]
+        }
+      }
+    },
+    "3": {
+      "grupos": {
+        "A": {
+          "nombre": "Grupo A",
+          "estudiantes": [
+            {
+              "id": 25,
+              "nombre": "Daniela",
+              "apellido": "Vega",
+              "usuario": "daniela.vega",
+              "password": "daniela123",
+              "activo": true
+            },
+            {
+              "id": 26,
+              "nombre": "Ricardo",
+              "apellido": "Navarro",
+              "usuario": "ricardo.navarro",
+              "password": "ricardo123",
+              "activo": true
+            },
+            {
+              "id": 27,
+              "nombre": "Natalia",
+              "apellido": "Herrera",
+              "usuario": "natalia.herrera",
+              "password": "natalia123",
+              "activo": true
+            },
+            {
+              "id": 28,
+              "nombre": "Alejandro",
+              "apellido": "Moreno",
+              "usuario": "alejandro.moreno",
+              "password": "alejandro123",
+              "activo": true
+            },
+            {
+              "id": 29,
+              "nombre": "Brenda",
+              "apellido": "Aguilar",
+              "usuario": "brenda.aguilar",
+              "password": "brenda123",
+              "activo": true
+            },
+            {
+              "id": 30,
+              "nombre": "Óscar",
+              "apellido": "Delgado",
+              "usuario": "oscar.delgado",
+              "password": "oscar123",
+              "activo": true
+            }
+          ]
+        },
+        "B": {
+          "nombre": "Grupo B",
+          "estudiantes": [
+            {
+              "id": 31,
+              "nombre": "Cristina",
+              "apellido": "Peña",
+              "usuario": "cristina.pena",
+              "password": "cristina123",
+              "activo": true
+            },
+            {
+              "id": 32,
+              "nombre": "Roberto",
+              "apellido": "Cabrera",
+              "usuario": "roberto.cabrera",
+              "password": "roberto123",
+              "activo": true
+            },
+            {
+              "id": 33,
+              "nombre": "Elena",
+              "apellido": "Cortés",
+              "usuario": "elena.cortes",
+              "password": "elena123",
+              "activo": true
+            },
+            {
+              "id": 34,
+              "nombre": "Pablo",
+              "apellido": "Rojas",
+              "usuario": "pablo.rojas",
+              "password": "pablo123",
+              "activo": true
+            },
+            {
+              "id": 35,
+              "nombre": "Adriana",
+              "apellido": "Medina",
+              "usuario": "adriana.medina",
+              "password": "adriana123",
+              "activo": true
+            },
+            {
+              "id": 36,
+              "nombre": "Héctor",
+              "apellido": "Campos",
+              "usuario": "hector.campos",
+              "password": "hector123",
+              "activo": true
+            }
+          ]
+        }
+      }
+    },
+    "4": {
+      "grupos": {
+        "A": {
+          "nombre": "Grupo A",
+          "estudiantes": [
+            {
+              "id": 37,
+              "nombre": "Andrea",
+              "apellido": "Méndez",
+              "usuario": "andrea.mendez",
+              "password": "andrea123",
+              "activo": true
+            },
+            {
+              "id": 38,
+              "nombre": "Fernando",
+              "apellido": "León",
+              "usuario": "fernando.leon",
+              "password": "fernando123",
+              "activo": true
+            },
+            {
+              "id": 39,
+              "nombre": "Mónica",
+              "apellido": "Rivera",
+              "usuario": "monica.rivera",
+              "password": "monica123",
+              "activo": true
+            },
+            {
+              "id": 40,
+              "nombre": "Luis",
+              "apellido": "Espinoza",
+              "usuario": "luis.espinoza",
+              "password": "luis123",
+              "activo": true
+            },
+            {
+              "id": 41,
+              "nombre": "Patricia",
+              "apellido": "Valencia",
+              "usuario": "patricia.valencia",
+              "password": "patricia123",
+              "activo": true
+            },
+            {
+              "id": 42,
+              "nombre": "Arturo",
+              "apellido": "Fuentes",
+              "usuario": "arturo.fuentes",
+              "password": "arturo123",
+              "activo": true
+            }
+          ]
+        },
+        "B": {
+          "nombre": "Grupo B",
+          "estudiantes": [
+            {
+              "id": 43,
+              "nombre": "Carmen",
+              "apellido": "Blanco",
+              "usuario": "carmen.blanco",
+              "password": "carmen123",
+              "activo": true
+            },
+            {
+              "id": 44,
+              "nombre": "Raúl",
+              "apellido": "Núñez",
+              "usuario": "raul.nunez",
+              "password": "raul123",
+              "activo": true
+            },
+            {
+              "id": 45,
+              "nombre": "Lorena",
+              "apellido": "Paredes",
+              "usuario": "lorena.paredes",
+              "password": "lorena123",
+              "activo": true
+            },
+            {
+              "id": 46,
+              "nombre": "Eduardo",
+              "apellido": "Vega",
+              "usuario": "eduardo.vega",
+              "password": "eduardo123",
+              "activo": true
+            },
+            {
+              "id": 47,
+              "nombre": "Silvia",
+              "apellido": "Ramos",
+              "usuario": "silvia.ramos",
+              "password": "silvia123",
+              "activo": true
+            },
+            {
+              "id": 48,
+              "nombre": "Manuel",
+              "apellido": "Serrano",
+              "usuario": "manuel.serrano",
+              "password": "manuel123",
+              "activo": true
+            }
+          ]
+        }
+      }
+    },
+    "5": {
+      "grupos": {
+        "A": {
+          "nombre": "Grupo A",
+          "estudiantes": [
+            {
+              "id": 49,
+              "nombre": "Beatriz",
+              "apellido": "Vargas",
+              "usuario": "beatriz.vargas",
+              "password": "beatriz123",
+              "activo": true
+            },
+            {
+              "id": 50,
+              "nombre": "Guillermo",
+              "apellido": "Castro",
+              "usuario": "guillermo.castro",
+              "password": "guillermo123",
+              "activo": true
+            },
+            {
+              "id": 51,
+              "nombre": "Rosa",
+              "apellido": "Molina",
+              "usuario": "rosa.molina",
+              "password": "rosa123",
+              "activo": true
+            },
+            {
+              "id": 52,
+              "nombre": "Alberto",
+              "apellido": "Herrera",
+              "usuario": "alberto.herrera",
+              "password": "alberto123",
+              "activo": true
+            },
+            {
+              "id": 53,
+              "nombre": "Teresa",
+              "apellido": "Gómez",
+              "usuario": "teresa.gomez",
+              "password": "teresa123",
+              "activo": true
+            },
+            {
+              "id": 54,
+              "nombre": "Víctor",
+              "apellido": "Jiménez",
+              "usuario": "victor.jimenez",
+              "password": "victor123",
+              "activo": true
+            }
+          ]
+        },
+        "B": {
+          "nombre": "Grupo B",
+          "estudiantes": [
+            {
+              "id": 55,
+              "nombre": "Dolores",
+              "apellido": "Santos",
+              "usuario": "dolores.santos",
+              "password": "dolores123",
+              "activo": true
+            },
+            {
+              "id": 56,
+              "nombre": "Antonio",
+              "apellido": "Lara",
+              "usuario": "antonio.lara",
+              "password": "antonio123",
+              "activo": true
+            },
+            {
+              "id": 57,
+              "nombre": "Esperanza",
+              "apellido": "Vega",
+              "usuario": "esperanza.vega",
+              "password": "esperanza123",
+              "activo": true
+            },
+            {
+              "id": 58,
+              "nombre": "Francisco",
+              "apellido": "Mendoza",
+              "usuario": "francisco.mendoza",
+              "password": "francisco123",
+              "activo": true
+            },
+            {
+              "id": 59,
+              "nombre": "Concepción",
+              "apellido": "Ruiz",
+              "usuario": "concepcion.ruiz",
+              "password": "concepcion123",
+              "activo": true
+            },
+            {
+              "id": 60,
+              "nombre": "José",
+              "apellido": "Pérez",
+              "usuario": "jose.perez",
+              "password": "jose123",
+              "activo": true
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+✨ feat: Implementar menú lateral global y panel de recursos
+
+## 🎯 Cambios Principales
+
+### Nuevo Menú Lateral Global
+- Agregado sidebar lateral con 5 módulos principales (Free Zone, Juegos, Lab, ICFES, Calificaciones)
+- Componente reutilizable en `partials/sidebar.blade.php`
+- Tooltips inteligentes y soporte de voz completo
+- Diseño responsive para desktop, tablet y móvil
+
+### Panel de Recursos Mejorado
+- Nuevo panel lateral deslizante para recursos
+- Apertura automática al seleccionar un tema
+- Vista mejorada de recursos (video, 3D, juegos, test, actividades)
+- Mejor UX con recursos siempre visibles
+
+### Eliminaciones
+- ❌ Removido menú de juegos de la parte inferior
+- ❌ Eliminado código duplicado
+- ❌ Limpiadas funciones obsoletas
+
+## 📁 Archivos Modificados
+
+### Nuevos
+- resources/views/partials/sidebar.blade.php
+- README_MENU_LATERAL.md
+- README_ACTUALIZACION_MENU.md
+- GUIA_RAPIDA_SIDEBAR.md
+- RESUMEN_CAMBIOS.md
+- COMMIT_MESSAGE.txt
+
+### Actualizados
+- resources/views/asignaturas.blade.php
+- resources/views/asignatura.blade.php
+- public/css/asignaturas.css
+- public/css/asignatura-detalle.css
+
+## 🎨 Mejoras de UX
+
+- ✅ Navegación más intuitiva y consistente
+- ✅ Acceso rápido a módulos principales
+- ✅ Recursos siempre visibles al estudiar
+- ✅ Interfaz más limpia y organizada
+- ✅ Mejor aprovechamiento del espacio
+
+## 🔧 Mejoras Técnicas
+
+- ✅ Componente reutilizable (DRY)
+- ✅ Función global de voz compartida
+- ✅ CSS modular y mantenible
+- ✅ Responsive design optimizado
+- ✅ Código limpio y documentado
+
+## 📚 Documentación
+
+- Documentación completa en archivos README
+- Guía rápida de implementación incluida
+- Ejemplos de uso en vistas existentes
+- Notas técnicas y solución de problemas
+
+---
+
+**Breaking Changes**: Ninguno - 100% compatible con código existente
+
+**Version**: 2.0
+
+**Date**: 2025-10-15
+
